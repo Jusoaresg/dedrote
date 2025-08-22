@@ -1,3 +1,4 @@
+```json
 {
   "twitch_token": "oauth:<auth_token da twitch>",
   "channel_name": "<nome_canal_twitch>",
@@ -7,3 +8,4 @@
   "text_source": "<nome_elemento_texto_obs>",
   "mortes": 0
 }
+```
