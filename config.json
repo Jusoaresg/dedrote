@@ -1,0 +1,9 @@
+{
+  "twitch_token": "oauth:2q41u3nxpd8vq80494tb9p91tnbupy",
+  "channel_name": "Jusoaresyt",
+  "obs_host": "localhost",
+  "obs_port": 4455,
+  "obs_password": "mPjlxde9yVYxlY0u",
+  "text_source": "Texto",
+  "mortes": 0
+}
